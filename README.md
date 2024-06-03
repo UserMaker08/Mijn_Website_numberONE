@@ -8,7 +8,6 @@
 </head>
 <body>
     <header>
-        <h1>Mijn Website numberONE</h1>
         <p class="tagline">De beste plek voor trendy kleding!</p>
         <nav>
             <ul>
@@ -19,11 +18,5 @@
             </ul>
         </nav>
     </header>
-
-    </main>
-
-    <footer>
-        <p>&copy; 2024 Mijn Website numberONE</p>
-    </footer>
 </body>
 </html>
