@@ -1,5 +1,4 @@
 # Mijn_Website_numberONE
-<!DOCTYPE html>
 <html lang="nl">
 <head>
     <meta charset="UTF-8">
