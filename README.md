@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mijn Website numberONE</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -20,17 +19,7 @@
             </ul>
         </nav>
     </header>
-    
-    <main>
-        <section id="featured-products">
-            <h2>Featured Products</h2>
-            <!-- Hier komen de uitgelichte producten -->
-        </section>
-        
-        <section id="new-arrivals">
-            <h2>New Arrivals</h2>
-            <!-- Hier komen de nieuwe producten -->
-        </section>
+
     </main>
 
     <footer>
